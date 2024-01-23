@@ -1,0 +1,17 @@
+# Visual Studio Code
+.vscode
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+.history
+
+# Python
+*.py[cod]
+*$py.class
+.python-version
+.mypy_cache/
+
+# Misc.
+README.Docker.md
+.DS_Store

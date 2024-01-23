@@ -13,8 +13,16 @@ One can filter plot outputs by:
 
 ![application](assets/screenshot.png)
 
-### Libraries:
+### Libraries
 
 -   **dash**: Creation of HTML dash application and plots
 -   **pandas**: Loading .csv data into a DataFrame, for plotting by plotly dash
 -   **numpy**: Numerical manipulation of data
+
+## Starting the Application
+
+Start the application by running:
+
+`docker compose up --build`
+
+The application will be available at http://localhost:9000.
