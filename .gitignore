@@ -15,3 +15,6 @@
 # Misc.
 README.Docker.md
 .DS_Store
+
+# AWS Key pairs
+*.pem
