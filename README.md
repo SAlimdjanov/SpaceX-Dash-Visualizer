@@ -78,7 +78,7 @@ Run the following to see the run status:
 
 `sudo docker ps`
 
-Type the public IP address specified in the EC2 instance in a browser and the application should be live and publically visible:
+Type the public IP address specified in the EC2 instance in a browser and the application should be live and publicly visible:
 
 ![aws-deploy](/assets/aws-deploy-screenshot.png)
 
@@ -88,4 +88,4 @@ To stop the container, run:
 
 `sudo docker stop {CONTAINER_ID}`
 
-Then, navigate the the EC2 main page on AWS and select the instance. Click "Terminate" to shut down the virtual machine.
+Then, navigate to the EC2 main page on AWS and select the instance. Click "Terminate" to shut down the virtual machine.
